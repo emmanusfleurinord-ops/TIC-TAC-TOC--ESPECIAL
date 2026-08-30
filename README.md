@@ -1,4 +1,3 @@
-# TIC-TAC-TOC-33
 🎮 Jogo da Velha Neon
 
 Um Jogo da Velha moderno com visual neon, feito em HTML, CSS e JavaScript puro.
